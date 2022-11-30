@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import GetBalanceData from "./GetBalanceData";
+import TransactionHistory from "./TransactionHistory";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <img src={logo} alt="logo" />
         <h2>.React, Sass & Ether JS.</h2>
       </header>
-      <GetBalanceData />
+      <TransactionHistory />
       <footer className="flex">
         <h2>
           .all projects on{" "}

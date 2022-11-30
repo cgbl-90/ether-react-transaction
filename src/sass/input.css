@@ -26,8 +26,8 @@ header img {
 }
 
 main {
-  background: rgb(2, 0, 36);
-  background: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(9, 9, 121) 35%, rgb(0, 212, 255) 100%);
+  background: rgb(231, 7, 105);
+  background: radial-gradient(circle, rgb(231, 7, 105) 0%, rgb(4, 235, 208) 100%);
   color: white;
   height: 70vh;
   display: grid;
